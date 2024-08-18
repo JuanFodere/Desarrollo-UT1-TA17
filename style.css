@@ -1,0 +1,18 @@
+img{
+    width: 280px;
+    border-radius: 50%
+}
+.tarjeta{
+    border: 2px solid black;;
+    background-color: aquamarine;
+    width: 300px;
+    padding: 20px;
+    border-radius: 3%;
+    text-align: center;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
